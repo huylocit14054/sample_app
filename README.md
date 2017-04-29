@@ -1,1 +1,1 @@
-# sanple_app
+# sample_app
